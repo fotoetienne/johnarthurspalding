@@ -5,8 +5,11 @@ Home page for John Spalding
 ## How to edit
 
 All posts and pages are just text files.
-You can edit them using github or
-[Prose.io](http://prose.io/#fotoetienne/johnarthurspalding)
+You can edit them using
+[Github](https://github.com/fotoetienne/johnarthurspalding)
+or [Prose.io](http://prose.io/#fotoetienne/johnarthurspalding).
+Github is a little more technical; Prose gives a cleaner environment
+for writing.
 
 ## Theme
 Powered by *Clean Blog by Start Bootstrap - Jekyll Version*

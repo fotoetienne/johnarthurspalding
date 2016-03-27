@@ -10,6 +10,7 @@ twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
 email_username:  your-email@yourdomain.com
+navlinks: ["/about/", "/contact/"]
 
 # Build settings
 markdown: kramdown

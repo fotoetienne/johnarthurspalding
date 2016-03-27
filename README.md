@@ -12,18 +12,9 @@ Github is a little more technical; Prose gives a cleaner environment
 for writing.
 
 ## Theme
-Powered by *Clean Blog by Start Bootstrap - Jekyll Version*
+Uses *Clean Blog by Start Bootstrap - Jekyll Version*
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
-
-####[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
-
-### Before You Begin
-
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
-
-It should look like this:
-`baseurl: ""`
 
 ### What's Included
 

@@ -7,10 +7,15 @@ description: "Write your site description here. It will be used as your sites me
 baseurl: ""
 url: "http://johnarthurspalding.com"
 twitter_username: JohnASpalding
-# github_username: davidtmiller
 facebook_username: john.spalding1
 email_username:  your-email@yourdomain.com
 navlinks: ["/about/", "/contact/"]
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: post
 
 # Build settings
 markdown: kramdown

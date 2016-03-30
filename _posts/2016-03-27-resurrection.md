@@ -11,9 +11,6 @@ published: false
     "So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples."
     ~Matthew 28:8, NIV.
 
-The resurrection didn't happen in a corner somewhere.
-It was public.
-And the unlikely were the first to bear the good news, 'afraid yet filled with joy.'
+The resurrection didn't happen in a corner somewhere. It was public. And the unlikely were the first to bear the good news, 'afraid yet filled with joy.'
 
-It all sounds like time-and-space history to me.
-And it appears that our faith is not in vain after all.
+It all sounds like time-and-space history to me. And it appears that our faith is not in vain after all.

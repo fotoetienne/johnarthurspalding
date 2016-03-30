@@ -1,6 +1,6 @@
 ---
 title: A Soldier Wounded in the Back
-header-img: "img/soldier wounded pic.jpg"
+header-img: "img/wounded soldier pic.jpg"
 ---
 
 My soul is torn right in the back  

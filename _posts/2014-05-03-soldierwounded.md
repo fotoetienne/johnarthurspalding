@@ -33,5 +33,4 @@ The efficacy of which depends
 On One, kissed by friends, left to die,  
 His soul torn in the back."
 
- ~by JAS (c) 2014
  ~by John Arthur Spalding &copy; 2014

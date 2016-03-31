@@ -17,6 +17,12 @@ defaults:
     values:
       layout: post
 
+# Prose.io editor settings
+prose:
+  siteurl: http://johnarthurspalding.com
+  media: img
+  ignore: ['fonts/*','js/*']
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

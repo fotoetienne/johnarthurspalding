@@ -21,7 +21,7 @@ defaults:
 prose:
   siteurl: http://johnarthurspalding.com
   media: img
-  ignore: ['fonts/*','js/*']
+  ignore: ['.gitignore','CNAME','Gemfile','Gruntfile.js','Makefile','package.json','fonts','js']
 
 # Build settings
 markdown: kramdown

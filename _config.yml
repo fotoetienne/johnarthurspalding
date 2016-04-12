@@ -1,14 +1,13 @@
 # Site settings
 title: JohnArthurSpalding.com
 header-img: img/skellig_michael_med.jpg
-email: mail@johnarthurspalding.com
 copyright_name: John Arthur Spalding
 description: Homepage of author John Arthur Spalding - poetry and writings on true spirituality, the Christian life, sanctification, and walking with God.
 baseurl: ""
 url: "http://johnarthurspalding.com"
 twitter_username: JohnASpalding
 facebook_username: john.spalding1
-email_username:  your-email@yourdomain.com
+email_username: mail@johnarthurspalding.com
 navlinks: ["/about/"]
 defaults:
   -

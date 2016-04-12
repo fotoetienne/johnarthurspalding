@@ -1,1 +1,3 @@
-crop picture for Forgive the Crook Near You
+- [x] make email address mail@johnarthurspalding.com
+- [ ] crop picture for Forgive the Crook Near You
+- [ ] setup analytics

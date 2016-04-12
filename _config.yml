@@ -22,6 +22,15 @@ prose:
   siteurl: http://johnarthurspalding.com
   media: img
   ignore: ['.gitignore','CNAME','Gemfile','Gruntfile.js','Makefile','package.json','fonts','js','mail']
+  metadata:
+    _posts:
+      - name: title
+        field:
+          element: text
+      - name: date
+        field:
+          element: text
+          value: CURRENT_DATETIME
 
 # Build settings
 markdown: kramdown

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: This is what I do.
+description: Come with me...
 "header-img": "img/about-bg.jpg"
 published: true
 ---

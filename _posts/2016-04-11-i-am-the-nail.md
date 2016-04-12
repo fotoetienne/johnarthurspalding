@@ -2,9 +2,10 @@
 subtitle: ""
 date: "2016-04-11 21:55 -0400"
 "header-img": img/th.jpg
-published: false
+published: true
 title: I Am the Nail
 ---
+
 
 Fashioned for a purpose, given as a sign,  
 The King Himself gave me   

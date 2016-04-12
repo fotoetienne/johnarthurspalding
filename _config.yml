@@ -9,7 +9,7 @@ url: "http://johnarthurspalding.com"
 twitter_username: JohnASpalding
 facebook_username: john.spalding1
 email_username:  your-email@yourdomain.com
-navlinks: ["/about/", "/contact/"]
+navlinks: ["/about/"]
 defaults:
   -
     scope:

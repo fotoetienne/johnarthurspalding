@@ -28,6 +28,10 @@ prose:
         field:
           element: text
           label: Title
+      - name: subtitle
+        field:
+          element: text
+          label: Subtitle
       - name: date
         field:
           element: text

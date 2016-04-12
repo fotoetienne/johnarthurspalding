@@ -2,7 +2,7 @@
 subtitle: ""
 date: "2015-10-03 "
 "header-img": "img/kneeling-prayer1.jpg"
-published: false
+published: true
 title: Forgive The Crook Near You
 ---
 

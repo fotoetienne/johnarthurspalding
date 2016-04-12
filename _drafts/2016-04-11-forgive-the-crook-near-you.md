@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 date: "2015-10-03 "
-"header-img": img/skellig_michael_med.jpg
+"header-img": "img/kneeling-prayer1.jpg"
 published: false
 title: Forgive The Crook Near You
 ---
@@ -25,6 +25,6 @@ By dying, this wonderful, suffering king!”
 “What is the name of the thief at his side,” I said.  
 He looks so familiar to me...”  
 Lord, please forgive that crook who dies near You.  
-O forgive the man, for I know I am he!  
+O forgive the man, for I know I am he! 
 
 ~JAS, (c) 2015

@@ -1,10 +1,11 @@
 ---
 subtitle: ""
-date: "2016-04-11 21:55 -0400"
+date: "2015-10-15"
 "header-img": img/th.jpg
 published: true
 title: I Am the Nail
 ---
+
 
 
 Fashioned for a purpose, given as a sign,  

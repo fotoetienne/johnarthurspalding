@@ -1,7 +1,7 @@
 ---
 date: '2015-12-25 '
 header-img: img/skellig_michael_med.jpg
-published: false
+published: true
 title: 'My Heart, This House, This Hour'
 subtitle: ~ A prayer for our family ~
 ---
@@ -19,4 +19,4 @@ I dedicate to You now
 The life You’ve given,  
 My heart, this house, this hour.  
   
-by John Arthur Spalding, © 2015
+~by John Arthur Spalding, © 2015

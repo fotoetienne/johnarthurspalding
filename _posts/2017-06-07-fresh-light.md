@@ -1,8 +1,9 @@
 ---
-date: '2017-06-07 12:10 -0400'
+date: '2017-04-15 '
 header-img: img/skellig_michael_med.jpg
-published: false
+published: true
 title: Fresh Light
+subtitle: A Resurrection Poem
 ---
 
 

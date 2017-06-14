@@ -1,7 +1,7 @@
 ---
 date: '2012-10-9 '
 header-img: img/skellig_michael_med.jpg
-published: false
+published: true
 title: A Summons to Stand
 ---
 [summons to stand.jpg]({{site.baseurl}}/img/summons to stand.jpg)

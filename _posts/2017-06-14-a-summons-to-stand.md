@@ -1,5 +1,5 @@
 ---
-date: '2017-06-14 12:06 -0400'
+date: '2012-10-9 '
 header-img: img/skellig_michael_med.jpg
 published: false
 title: A Summons to Stand
@@ -16,4 +16,4 @@ I'll answer devil, flesh and man.
 Stand with Me; I'll help you stand.  
 I am King; I, willing, can.  
   
-~By John Arthur Spalding, (c)2012
+~By John Arthur Spalding, (c) 2012

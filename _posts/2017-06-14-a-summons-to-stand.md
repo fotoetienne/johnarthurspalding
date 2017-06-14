@@ -9,7 +9,7 @@ title: A Summons to Stand
 Do devils accuse you  
 O tender heart?  
 Sing to Me, see hell depart.  
-And as they flee to lonely places  ![summons to stand.jpg]({{site.baseurl}}/img/summons%20to%20stand.jpg)
+And as they flee to lonely places  
 Ask of Me, I am near  
 I am Jesus, I tarry here  
 I'll answer devil, flesh and man.  

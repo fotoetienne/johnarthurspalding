@@ -1,5 +1,5 @@
 ---
-date: '2012-10-9 '
+date: '2012-10-09'
 header-img: img/skellig_michael_med.jpg
 published: true
 title: A Summons to Stand

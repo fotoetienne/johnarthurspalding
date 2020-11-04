@@ -4,7 +4,7 @@ header-img: img/skellig_michael_med.jpg
 published: true
 title: A Summons to Stand
 ---
-[summons to stand.jpg]({{site.baseurl}}/img/summons to stand.jpg)
+<!-- [summons to stand.jpg]({{site.baseurl}}/img/summons to stand.jpg) -->
 
 Do devils accuse you  
 O tender heart?  

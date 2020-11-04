@@ -1,6 +1,6 @@
 ---
 date: '2019-04-02'
-header-img: img/skellig_michael_med.jpg
+header-img: img/cloud-3047379_1920.jpg
 published: true
 title: 'I Doubt That Shadow'
 # subtitle: ~ A prayer for our family ~
